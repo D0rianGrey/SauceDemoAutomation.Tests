@@ -1,0 +1,24 @@
+# Visual Studio / VS Code files
+.vs/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.pdb
+
+# Driver files
+*.exe
+
+# Test Results
+TestResults/
+*.trx
+*.log
+
+# Extent Reports
+Reports/
